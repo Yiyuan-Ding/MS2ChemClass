@@ -13,5 +13,5 @@ MS2ChemClass -- a tool to perform chemical compound classification based on mass
 
 2. Compared with CANOPUS:  
   Tool: SIRIUS 4.9.5  
-  Code in command line: $sirius -i input.mgf -o output_dir formula zodiac structure canopus  
+  Code in command line: $sirius -i <input>.mgf -o <output_dir> formula zodiac structure canopus  
   
