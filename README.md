@@ -9,6 +9,7 @@ MS2ChemClass -- a tool to perform chemical compound classification based on mass
   matplotlib 3.3.4  
   numpy 1.20.1  
   gensim 4.0.1  
+  scipy 1.6.2  
 
 
 2. Compared with CANOPUS:  
