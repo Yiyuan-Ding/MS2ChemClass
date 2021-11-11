@@ -3,7 +3,8 @@ MS2ChemClass -- a tool to perform chemical compound classification based on mass
 1. General workflows:  
     1) Mass spectra from GNPS --- (matchms) ---> mass spectra with positive ion and unique InChIKey --- (Spec2Vec) ---> mass spectral embeddings.  
     2) Use mass spectral embeddings with ClassyFire and PClassifier ontologies to do classification by LDA and Random Forest.  
-                12 situations: LDA in Class level in ClassyFire ontology;  
+                          12 situations:   
+                               LDA in Class level in ClassyFire ontology;  
                                LDA in Superclass level in ClassyFire ontology;  
                                LDA in Subclass level in ClassyFire ontology;  
                                LDA in Class level in NPClassifier ontology;  
